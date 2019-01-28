@@ -12,7 +12,7 @@ So the obvious question is: what next?
 
 Well...
 
-1. I will migrate my old blogs from Wordpress to Jekyll.
+1. I will migrate some of my old blogs from Wordpress to Jekyll. Not much, as I will grant oblivion to old PHP posts.
 
 2. I will learn Jekyll and develop my own theme for the blog.
 
