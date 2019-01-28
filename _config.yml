@@ -6,7 +6,7 @@
 title: The track created behind me - my journey of a developer
 email: klimek.mariusz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "There's no path before me, and a track will be created behind me." - Takamura Kotaro
+  "One of the main reasons I blog is because I have a really, really bad memory." – Matt Mullenweg
 baseurl: "/devblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MauriceKlimek
