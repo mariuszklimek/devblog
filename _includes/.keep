@@ -1,0 +1,4 @@
+# This folder is kind of like libraries that are called using #include in C-programming. 
+# You can include files which are inside this folder into any post or page just by adding 
+# this line of code - {% include filename.html %} replace the filename to a file inside your _includes folder.
+# Usually, header and footer files are put inside this folder and called inside default layout (or any page or post).
