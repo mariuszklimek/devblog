@@ -2,6 +2,7 @@
 layout: post
 title:  "Why move to Jekyll?"
 date:   2019-01-26 00:45:03 +0100
+permalink: /jekyll/why-move-to-jekyll/
 categories: jekyll update
 ---
 I used to have a Wordpress blog. I wasn't happy with it. It was PHP, I made some sites in PHP and I did not like them. When I saw Wordpress' code I was thinking is it worth to learn it? I was unable to prepare a theme for myself, the amount of plugins was overwhelming and the amount of emails I got about plugin updates were just frustrating. Not only that, I was buying this PHP hosting (because almost every hosting in Poland is all about PHP) with a domain, and the truth is - I rarely updated my blog. I still have trouble with self discipline to write a blog post. And I paid for it annualy.

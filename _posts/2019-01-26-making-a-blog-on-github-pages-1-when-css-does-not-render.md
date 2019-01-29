@@ -4,7 +4,7 @@ id: 187
 title: Made a Jekyll site and realised it doesn't render the CSS properly
 date: 2019-01-26T00:03:23+00:00
 author: Mariusz Klimek
-permalink: /adventures-in-c-sharp/making-a-blog-on-github-pages-1-when-css-does-not-render/
+permalink: /jekyll/css-does-not-render-on-github-pages/
 categories: jekyll
 ---
 # TL;DR

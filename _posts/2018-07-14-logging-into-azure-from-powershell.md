@@ -5,7 +5,7 @@ date: 2018-07-14T22:37:36+00:00
 author: Mariusz Klimek
 layout: post
 guid: http://blog.mariuszklimek.eu/?p=146
-permalink: /adventures-in-c-sharp/logging-into-azure-from-powershell/
+permalink: /azure/logging-into-azure-from-powershell/
 categories:
   - Dev Diary
 tags:

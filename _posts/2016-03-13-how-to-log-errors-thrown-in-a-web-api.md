@@ -5,7 +5,7 @@ date: 2016-03-13T21:54:02+00:00
 author: Mariusz Klimek
 layout: post
 guid: http://blog.mariuszklimek.eu/?p=54
-permalink: /creating-a-rest-api/how-to-log-errors-thrown-in-a-web-api/
+permalink: /creating-a-rest-api/03/how-to-log-errors-thrown-in-a-web-api/
 dsq_thread_id:
   - "4660359782"
 categories:

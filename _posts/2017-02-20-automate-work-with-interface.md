@@ -5,7 +5,7 @@ date: 2017-02-20T20:40:04+00:00
 author: Mariusz Klimek
 layout: post
 guid: http://blog.mariuszklimek.eu/?p=78
-permalink: /codeproject/automate-work-with-interface/
+permalink: /automate-work-with-interface/
 dsq_thread_id:
   - "5569653915"
 categories:

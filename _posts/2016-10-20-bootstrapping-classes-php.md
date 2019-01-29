@@ -5,7 +5,7 @@ date: 2016-10-20T21:31:41+00:00
 author: Mariusz Klimek
 layout: post
 guid: http://blog.mariuszklimek.eu/?p=68
-permalink: /creating-a-rest-api/bootstrapping-classes-php/
+permalink: /php/bootstrapping-classes/
 dsq_thread_id:
   - "5239716365"
 categories:

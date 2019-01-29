@@ -5,7 +5,7 @@ date: 2018-02-24T22:13:59+00:00
 author: Mariusz Klimek
 layout: post
 guid: http://blog.mariuszklimek.eu/?p=129
-permalink: /adventures-in-c-sharp/model-validation-using-attributes/
+permalink: /c-sharp/model-validation-using-attributes/
 dsq_thread_id:
   - "6502796231"
 categories:

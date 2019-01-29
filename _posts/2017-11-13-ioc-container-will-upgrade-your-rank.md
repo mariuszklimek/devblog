@@ -5,7 +5,7 @@ date: 2017-11-13T20:53:14+00:00
 author: Mariusz Klimek
 layout: post
 guid: http://blog.mariuszklimek.eu/?p=93
-permalink: /adventures-in-c-sharp/ioc-container-will-upgrade-your-rank/
+permalink: /c-sharp/ioc-container-will-upgrade-your-rank/
 dsq_thread_id:
   - "6281953301"
 categories:

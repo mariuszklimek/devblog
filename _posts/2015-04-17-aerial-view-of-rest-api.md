@@ -5,7 +5,7 @@ date: 2015-04-17T23:44:25+00:00
 author: Mariusz Klimek
 layout: post
 guid: http://blog.mariuszklimek.eu/?p=5
-permalink: /creating-a-rest-api/aerial-view-of-rest-api/
+permalink: /creating-a-rest-api/02/aerial-view-of-rest-api/
 dsq_thread_id:
   - "3731490860"
 categories:
