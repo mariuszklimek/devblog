@@ -4,7 +4,6 @@ title: IoC container will upgrade your rank!
 date: 2017-11-13T20:53:14+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/?p=93
 permalink: /c-sharp/ioc-container-will-upgrade-your-rank/
 dsq_thread_id:
   - "6281953301"
@@ -15,7 +14,7 @@ tags:
   - Inversion of Control
   - structuremap
 ---
-This post took some time to write. And I have to start with a confession. I didn't use an IoC container (IoC stands for Inversion of Control) in [my last example](http://blog.mariuszklimek.eu/adventures-in-c-sharp/automate-work-with-interface/) and I got scolded for it.
+This post took some time to write. And I have to start with a confession. I didn't use an IoC container (IoC stands for Inversion of Control) in [my last example](http://mariuszklimek.github.io/devblog/c-sharp/automate-work-with-interface/) and I got scolded for it.
 
 It's not that I never worked with IoC containers before. But little experience as I had I always had everything configured long before I joined the projects. After receiving this critique I decided that it is the best chance to finally make up the shortcomings and make this legacy code better :-)
 
@@ -93,7 +92,7 @@ namespace OurProject
 }
 ```
 
-[Previously](http://blog.mariuszklimek.eu/adventures-in-c-sharp/automate-work-with-interface/), I used System.Reflection to get all the validation rules objects by their interfaces. Now, we just pass all of them as dependencies to the DataValidator. No additional logic is needed.
+[Previously](http://mariuszklimek.github.io/devblog/c-sharp/automate-work-with-interface/), I used System.Reflection to get all the validation rules objects by their interfaces. Now, we just pass all of them as dependencies to the DataValidator. No additional logic is needed.
 
 # Using the IoC container
 

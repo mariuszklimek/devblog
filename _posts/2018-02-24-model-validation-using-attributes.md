@@ -4,7 +4,6 @@ title: Model validation using attributes
 date: 2018-02-24T22:13:59+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/?p=129
 permalink: /c-sharp/model-validation-using-attributes/
 dsq_thread_id:
   - "6502796231"

@@ -4,8 +4,7 @@ title: How to use an interface to automate work!
 date: 2017-02-20T20:40:04+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/?p=78
-permalink: /automate-work-with-interface/
+permalink: /c-sharp/automate-work-with-interface/
 dsq_thread_id:
   - "5569653915"
 categories:
@@ -85,7 +84,7 @@ Easy as that. How you want to name them, arrange them and all is up to you.
 
 # Using the validators
 
-[Use an IoC Container](http://blog.mariuszklimek.eu/adventures-in-c-sharp/ioc-container-will-upgrade-your-rank/). Ignore the rest ;-)
+[Use an IoC Container](http://mariuszklimek.github.io/devblog/c-sharp/ioc-container-will-upgrade-your-rank/). Ignore the rest ;-)
 
 First, we need to get all the validators that implement our interface:
 

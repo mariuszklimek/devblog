@@ -4,7 +4,6 @@ title: Setting up PhpUnit for WAMP Server
 date: 2014-12-17T10:53:00+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/uncategorized/my-own-mvc-2-setting-up-phpunit-for-wamp-server/
 permalink: /php/setting-up-phpunit-for-wamp-server/
 dsq_thread_id:
   - "3690818440"

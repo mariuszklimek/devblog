@@ -4,7 +4,6 @@ title: Custom routing in PHP
 date: 2014-09-07T00:01:00+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/uncategorized/my-own-mvc-1-custom-routing-in-php/
 permalink: /creating-a-rest-api/01/custom-routing-in-php/
 dsq_thread_id:
   - "3690819743"

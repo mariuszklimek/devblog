@@ -4,7 +4,6 @@ title: Logging into Azure from Powershell - or my beginner's steps to master Azu
 date: 2018-07-14T22:37:36+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/?p=146
 permalink: /azure/logging-into-azure-from-powershell/
 categories:
   - Dev Diary

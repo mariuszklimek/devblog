@@ -4,7 +4,6 @@ title: How to log errors thrown in a Web API
 date: 2016-03-13T21:54:02+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/?p=54
 permalink: /creating-a-rest-api/03/how-to-log-errors-thrown-in-a-web-api/
 dsq_thread_id:
   - "4660359782"
@@ -24,7 +23,7 @@ Exceptions, mostly. That’s what I’ll cover in this post. You could ofcourse 
 
 Not that kind of catch  ;-) The try-catch block.
 
-Since I have a bit created in [my attempt to create a REST API](http://blog.mariuszklimek.eu/category/creating-a-rest-api/) (although it’s much more of a Web API right now), I will base the exception handling on that code. And since [I modified the .htaccess file to reroute almost everything to a single file](http://blog.mariuszklimek.eu/creating-a-rest-api/custom-routing-in-php/), I decided to put only one catch block to catch all exceptions. At the very heart of the API. To put it simple, it would look something like that:
+Since I have a bit created in my attempt to create a REST API (although it’s much more of a Web API right now), I will base the exception handling on that code. And since [I modified the .htaccess file to reroute almost everything to a single file](http://mariuszklimek.github.io/devblog/creating-a-rest-api/01/custom-routing-in-php/), I decided to put only one catch block to catch all exceptions. At the very heart of the API. To put it simple, it would look something like that:
 
 ```php
 try

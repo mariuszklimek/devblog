@@ -4,7 +4,6 @@ title: Bootstrapping classes in PHP
 date: 2016-10-20T21:31:41+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/?p=68
 permalink: /php/bootstrapping-classes/
 dsq_thread_id:
   - "5239716365"

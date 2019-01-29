@@ -4,7 +4,6 @@ title: How I stopped worrying and banned myself from social media on all my comp
 date: 2018-08-03T21:46:41+00:00
 author: Mariusz Klimek
 layout: post
-guid: http://blog.mariuszklimek.eu/?p=155
 permalink: /lifehack/how-to-ban-yourself-from-social-media-on-all-my-computers/
 categories:
   - Dev Diary
