@@ -2,7 +2,7 @@
 layout: post
 title:  "First steps in Svelte"
 permalink: /svelte/firststeps/
-categories: svelte tutorial
+categories: svelte tutorial npx degit
 ---
 
 ## Why Svelte all of a sudden? What about Electron?
@@ -47,6 +47,12 @@ We have the very basic app in Svelte already here. To launch it execute:
 
 And go to [http://localhost:5000/](http://localhost:5000/).
 
+## Rollup? What if you want to use webpack?
+
+The command line I analised above uses rollup as it's bundler. The good people at Svelte created an additional template for webpack lovers, and the only thing you need to do is use this command:
+
+`npx degit sveltejs/template-webpack svelte-app`
+
 ## What's next?
 
 Writing some actual Svelte applications :-)
@@ -54,3 +60,7 @@ Writing some actual Svelte applications :-)
 And using that knowledge when writing Electron desktop applications.
 
 This and some learning of EcmaScript :-)
+
+### Post changes history
+
+2019-06-02 - Added note about webpack template.
