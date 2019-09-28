@@ -33,15 +33,13 @@ Remember:
 
 I entered the file and added those lines at the end:
 
+```txt
 127.0.0.1 localhost
-  
 127.0.0.1 www.facebook.com
-  
 127.0.0.1 www.twitter.com
-  
 127.0.0.1 twitter.com
-  
-127.0.0.1 [https://twitter.com](https://twitter.com)
+127.0.0.1 https://twitter.com
+```
 
 The first line was already there. I added the next four.
 
