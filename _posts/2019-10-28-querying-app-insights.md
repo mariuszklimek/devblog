@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Querying Application Insights - Public API and Azure API"
-date:   2019-10-11 00:00:03 +0100
+date:   2019-10-28 00:00:03 +0100
 permalink: /azure/app-insights/api/querying
 categories: azure azure-app-insights azure-active-directory c-sharp
 ---
