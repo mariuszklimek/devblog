@@ -8,7 +8,7 @@ email: klimek.mariusz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   "One of the main reasons I blog is because I have a really, really bad memory." – Matt Mullenweg
 baseurl: "/devblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mariuszklimek.github.io/devblog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MauriceKlimek
 github_username:  klimcio
 
