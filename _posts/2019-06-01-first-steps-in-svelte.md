@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First steps in Svelte"
+title:  "[Abandonend] First steps in Svelte"
 permalink: /svelte/firststeps/
 categories: svelte tutorial npx degit
 ---

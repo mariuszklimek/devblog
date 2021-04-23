@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First steps in Electron"
+title:  "[Abandonend] First steps in Electron"
 date:   2019-02-12 00:45:03 +0100
 permalink: /electron/first-steps/
 categories: electron tutorial
