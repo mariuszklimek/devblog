@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating CLI tools is easier than you think"
-date: 2021-05-01 09:31:03 +0100
+date: 2021-08-11 21:03:03 +0100
 permalink: /cli/getting-started-params
 categories: cli C#
 ---
